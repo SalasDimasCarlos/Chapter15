@@ -4,11 +4,11 @@ table , tr , th, td  {  /* All things*/
   padding: 5px;
 }
 
-h1 #titulo {
+h1#titulo {
   color: teal;
 }
 
-h2 #subtitulo {
+h2#subtitulo {
   color: blue;
 }
 
@@ -32,15 +32,15 @@ a em { /* em in links other color*/
   color: blue;
 }
 
-div #adicional p {
+div#adicional p {
   color: olive;
 }
 
-div #adicional span #especial{
+div#adicional span#especial{
   color: fuchsia;
 }
 
-div #adicional a {
+div#adicional a {
   color: green;
 }
 
